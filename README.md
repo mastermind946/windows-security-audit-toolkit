@@ -6,10 +6,10 @@ Uses only Python's built-in libraries, so there is nothing extra to install.
 
 ## What It Checks
 
-firewall_status.py - Whether Windows Firewall is enabled for each profile (Domain, Private, Public).
-defender_status.py - Windows Defender status: real-time protection, antivirus, and signature updates.
-local_policy_checker.py - Local security policy, such as password and account lockout settings.            
-permissions_checker.py - Permissions on sensitive files and directories.                                  
+- `firewall_status.py` - Whether Windows Firewall is enabled for each profile (Domain, Private, Public).
+- `defender_status.py` - Windows Defender status: real-time protection, antivirus, and signature updates.
+- `local_policy_checker.py` - Local security policy, such as password and account lockout settings.            
+- `permissions_checker.py` - Permissions on sensitive files and directories.                                  
 
 ## Requirements
 
