@@ -27,4 +27,4 @@ This toolkit only **reads** settings. It does not change anything on your system
 
 ## License
 
-Released under the MIT License. See the `LICENSE` file for details.
+Released under the [MIT License](LICENSE).
